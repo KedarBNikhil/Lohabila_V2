@@ -1,0 +1,9 @@
+[2026-06-29 15:45:26] [INFO] Backup started
+[2026-06-29 15:45:35] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-29 15:45:35] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-29 15:45:35] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-29 15:45:35] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.7917404,"backup_start":"2026-06-29T15:45:30.6134679+05:30","backup_end":"2026-06-29T15:45:35.4052083+05:30","snapshot_id":"d7599f7689b5e32675513f1101d751607104caa3ffda7437960e563242a9837b"}
+[2026-06-29 15:45:36] [INFO] Backup successful
+[2026-06-29 15:45:36] [INFO] Expected Snapshot ID: d7599f7689b5e32675513f1101d751607104caa3ffda7437960e563242a9837b
+[2026-06-29 15:45:36] [INFO] Starting validation
+[2026-06-29 15:45:52] [INFO] Validation completed

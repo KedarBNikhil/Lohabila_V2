@@ -1,0 +1,30 @@
+﻿
+Backup Report
+=============
+
+Device: 
+Date: 06/27/2026 20:58:51
+
+Backup Status: SUCCESS
+Snapshot ID: af640033ab4587e59449db2a517729df33628084e22947344c4e13707b884c74
+Backup Time: 
+Validation Status: PASS
+
+Validation Results
+------------------
+Repository Integrity: PASS
+Snapshot Validation: PASS
+Validated Snapshot: af640033ab4587e59449db2a517729df33628084e22947344c4e13707b884c74
+
+Repository Stats:
+scanning... [0:00] 100.00%  1 / 1 snapshots, 11 files, 1.166 GiB Stats in restore-size mode:      Snapshots processed:  1         Total File Count:  11               Total Size:  1.166 GiB
+
+Source Path: 
+
+Recovery:
+Latest snapshot af640033ab4587e59449db2a517729df33628084e22947344c4e13707b884c74 available for restore
+
+Validation Details:
+Repository integrity OK
+Snapshot comparison successful.
+

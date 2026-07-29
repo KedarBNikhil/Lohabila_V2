@@ -1,0 +1,27 @@
+[2026-06-28 20:32:58] [INFO] Backup started
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"status","seconds_elapsed":3,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 20:33:08] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":1,"dirs_unmodified":3,"data_blobs":0,"tree_blobs":1,"data_added":296,"data_added_packed":256,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":6.6198134,"backup_start":"2026-06-28T20:33:01.8353755+05:30","backup_end":"2026-06-28T20:33:08.4551889+05:30","snapshot_id":"cf5fd4b506f07da1b9ba8c0f841f51947ad05a52ce2ae4ea1345018f5cda91c1"}
+[2026-06-28 20:33:09] [INFO] Backup successful
+[2026-06-28 20:33:09] [INFO] Expected Snapshot ID: cf5fd4b506f07da1b9ba8c0f841f51947ad05a52ce2ae4ea1345018f5cda91c1
+[2026-06-28 20:33:09] [INFO] Starting validation
+[2026-06-28 20:33:23] [INFO] Validation completed
+[2026-06-28 23:00:02] [INFO] Backup started
+[2026-06-28 23:00:09] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:09] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:09] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:09] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:10] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:10] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:10] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-28 23:00:10] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":1,"dirs_unmodified":3,"data_blobs":0,"tree_blobs":1,"data_added":296,"data_added_packed":256,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":5.0007996,"backup_start":"2026-06-28T23:00:04.4894096+05:30","backup_end":"2026-06-28T23:00:09.4902092+05:30","snapshot_id":"64ff4ebe97c062785baceffffdc749fb35c97ae8a73faa40350f817ab072c185"}
+[2026-06-28 23:00:10] [INFO] Backup successful
+[2026-06-28 23:00:10] [INFO] Expected Snapshot ID: 64ff4ebe97c062785baceffffdc749fb35c97ae8a73faa40350f817ab072c185
+[2026-06-28 23:00:10] [INFO] Starting validation
+[2026-06-28 23:00:24] [INFO] Validation completed

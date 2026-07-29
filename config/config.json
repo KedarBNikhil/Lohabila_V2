@@ -1,0 +1,40 @@
+{
+    "application": {
+        "name": "Lohabila BackupAgent",
+        "version": "2.0.0",
+        "config_version": 1
+    },
+    "customer": {
+        "customer_name": "kjb",
+        "company_name": "kjb",
+        "email": "kjb",
+        "phone": "kjb"
+    },
+    "installation": {
+        "install_directory": ""
+    },
+    "backup": {
+        "sources": []
+    },
+    "repository": {
+        "password_file": "config/repo_password.enc"
+    },
+    "schedule": {
+        "enabled": true,
+        "frequency": "Daily",
+        "start_date": "",
+        "start_time": "23:00",
+        "day_of_week": "",
+        "day_of_month": ""
+    },
+    "execution": {
+        "run_missed_backup": true,
+        "retry_failed_backup": true,
+        "retry_attempts": 3,
+        "retry_interval_minutes": 5,
+        "wake_computer": false,
+        "skip_metered_connection": true,
+        "prevent_overlapping_backups": true,
+        "run_only_when_user_logged_on": true
+    }
+}

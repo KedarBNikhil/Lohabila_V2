@@ -1,0 +1,90 @@
+[2026-06-27 11:49:35] [INFO] Backup started
+[2026-06-27 11:49:50] [INFO] using parent snapshot eb6288a8
+[2026-06-27 11:49:50] [INFO] 
+[2026-06-27 11:49:50] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-27 11:49:50] [INFO] Dirs:            0 new,     1 changed,     3 unmodified
+[2026-06-27 11:49:50] [INFO] Added to the repository: 296 B (255 B stored)
+[2026-06-27 11:49:50] [INFO] 
+[2026-06-27 11:49:50] [INFO] processed 7 files, 1.166 GiB in 0:10
+[2026-06-27 11:49:50] [INFO] snapshot 766a63a3 saved
+[2026-06-27 11:49:50] [INFO] Backup successful
+[2026-06-27 11:49:50] [INFO] Starting validation
+[2026-06-27 11:50:05] [INFO] Validation completed
+[2026-06-27 11:50:11] [INFO] Uploading file: backup-2026-06-27.log -> restic-kedarwinartifacts/logs/backup-2026-06-27.log
+[2026-06-27 11:50:12] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-27.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:eb79ccc0-c01e-00a1-2afc-05e8c3000000
+Time:2026-06-27T06:19:53.4948103Z
+[2026-06-27 11:50:12] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-27.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:eb79ccc0-c01e-00a1-2afc-05e8c3000000
+Time:2026-06-27T06:19:53.4948103Z
+[2026-06-27 11:50:12] [INFO] Uploading file: BackupReport-2026-06-27.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-27.txt
+[2026-06-27 11:50:13] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-27.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:eb79ce79-c01e-00a1-1efc-05e8c3000000
+Time:2026-06-27T06:19:54.0173241Z
+[2026-06-27 11:50:13] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-27.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:eb79ce79-c01e-00a1-1efc-05e8c3000000
+Time:2026-06-27T06:19:54.0173241Z
+[2026-06-27 12:54:53] [INFO] Backup started
+[2026-06-27 12:54:58] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 12:54:58] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 12:54:58] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 12:54:58] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.8126931,"backup_start":"2026-06-27T12:54:53.066875+05:30","backup_end":"2026-06-27T12:54:57.8795681+05:30","snapshot_id":"8261f5b959f52ca5ad955731576b35eb5804fa31e3a92c15e6a41d58595e90d3"}
+[2026-06-27 12:54:58] [INFO] Backup successful
+[2026-06-27 12:54:58] [INFO] Expected Snapshot ID: 8261f5b959f52ca5ad955731576b35eb5804fa31e3a92c15e6a41d58595e90d3
+[2026-06-27 12:54:58] [INFO] Starting validation
+[2026-06-27 12:55:12] [INFO] Validation completed
+[2026-06-27 12:55:16] [INFO] Uploading file: backup-2026-06-27.log -> restic-kedarwinartifacts/logs/backup-2026-06-27.log
+[2026-06-27 12:55:17] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-27.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:89dd7b08-b01e-00c8-6006-06b76f000000
+Time:2026-06-27T07:24:58.3218503Z
+[2026-06-27 12:55:17] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-27.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:89dd7b08-b01e-00c8-6006-06b76f000000
+Time:2026-06-27T07:24:58.3218503Z
+[2026-06-27 12:55:17] [INFO] Uploading file: BackupReport-2026-06-27.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-27.txt
+[2026-06-27 12:55:18] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-27.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:89dd7bae-b01e-00c8-7406-06b76f000000
+Time:2026-06-27T07:24:58.8237836Z
+[2026-06-27 12:55:18] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-27.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:89dd7bae-b01e-00c8-7406-06b76f000000
+Time:2026-06-27T07:24:58.8237836Z
+[2026-06-27 20:39:20] [INFO] Backup started
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"status","seconds_elapsed":2,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:39:31] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":1,"dirs_unmodified":3,"data_blobs":0,"tree_blobs":1,"data_added":296,"data_added_packed":255,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":6.2270373,"backup_start":"2026-06-27T20:39:24.2942721+05:30","backup_end":"2026-06-27T20:39:30.5213094+05:30","snapshot_id":"7307c5b949ebadad980b465517559586cb70c61811e2180c9ad314e99b38a9e3"}
+[2026-06-27 20:39:31] [INFO] Backup successful
+[2026-06-27 20:39:31] [INFO] Expected Snapshot ID: 7307c5b949ebadad980b465517559586cb70c61811e2180c9ad314e99b38a9e3
+[2026-06-27 20:39:31] [INFO] Starting validation
+[2026-06-27 20:39:44] [INFO] Validation completed
+[2026-06-27 20:39:48] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-27.log. Error: The variable '$script:ArtifactsContainer' cannot be retrieved because it has not been set.
+[2026-06-27 20:39:48] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-27.txt. Error: The variable '$script:ArtifactsContainer' cannot be retrieved because it has not been set.
+[2026-06-27 20:50:20] [INFO] Backup started
+[2026-06-27 20:50:25] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:50:25] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:50:25] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.5969554,"backup_start":"2026-06-27T20:50:20.4222083+05:30","backup_end":"2026-06-27T20:50:25.0191637+05:30","snapshot_id":"4fd85f1b929464541511ce7d944cca0f0fce92308359f2b1adafbb92f8792bb1"}
+[2026-06-27 20:50:25] [INFO] Backup successful
+[2026-06-27 20:50:25] [INFO] Expected Snapshot ID: 4fd85f1b929464541511ce7d944cca0f0fce92308359f2b1adafbb92f8792bb1
+[2026-06-27 20:50:25] [INFO] Starting validation
+[2026-06-27 20:50:39] [INFO] Validation completed
+[2026-06-27 20:54:35] [INFO] Backup started
+[2026-06-27 20:54:40] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:54:40] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:54:40] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.7485441999999995,"backup_start":"2026-06-27T20:54:35.5408141+05:30","backup_end":"2026-06-27T20:54:40.2893583+05:30","snapshot_id":"c571c13f0620ca688a09eef6bfb737b9aa824e21e8418f648d15ed464fb3f75d"}
+[2026-06-27 20:54:40] [INFO] Backup successful
+[2026-06-27 20:54:40] [INFO] Expected Snapshot ID: c571c13f0620ca688a09eef6bfb737b9aa824e21e8418f648d15ed464fb3f75d
+[2026-06-27 20:54:40] [INFO] Starting validation
+[2026-06-27 20:54:53] [INFO] Validation completed
+[2026-06-27 20:58:29] [INFO] Backup started
+[2026-06-27 20:58:34] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:58:34] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-27 20:58:34] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.3406523,"backup_start":"2026-06-27T20:58:29.6418122+05:30","backup_end":"2026-06-27T20:58:33.9824645+05:30","snapshot_id":"af640033ab4587e59449db2a517729df33628084e22947344c4e13707b884c74"}
+[2026-06-27 20:58:34] [INFO] Backup successful
+[2026-06-27 20:58:34] [INFO] Expected Snapshot ID: af640033ab4587e59449db2a517729df33628084e22947344c4e13707b884c74
+[2026-06-27 20:58:34] [INFO] Starting validation
+[2026-06-27 20:58:47] [INFO] Validation completed
+[2026-06-27 23:00:03] [INFO] Backup started

@@ -1,0 +1,30 @@
+﻿
+Backup Report
+=============
+
+Device: 
+Date: 06/24/2026 23:43:38
+
+Backup Status: SUCCESS
+Snapshot ID: eb6288a8
+Backup Time: 
+Validation Status: PASS
+
+Validation Results
+------------------
+Repository Integrity: PASS
+Snapshot Validation: PASS
+Validated Snapshot: eb6288a8
+
+Repository Stats:
+scanning... [0:00] 100.00%  1 / 1 snapshots, 11 files, 1.166 GiB Stats in restore-size mode:      Snapshots processed:  1         Total File Count:  11               Total Size:  1.166 GiB
+
+Source Path: 
+
+Recovery:
+Latest snapshot eb6288a8 available for restore
+
+Validation Details:
+Repository integrity OK
+Snapshot validation OK
+

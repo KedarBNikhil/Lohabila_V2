@@ -1,0 +1,146 @@
+[2026-06-24 15:23:08] [INFO] Backup started
+[2026-06-24 15:23:18] [INFO] using parent snapshot 5c22140d
+[2026-06-24 15:23:18] [INFO] 
+[2026-06-24 15:23:18] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 15:23:18] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 15:23:18] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 15:23:18] [INFO] 
+[2026-06-24 15:23:18] [INFO] processed 7 files, 1.166 GiB in 0:04
+[2026-06-24 15:23:18] [INFO] snapshot 9b879372 saved
+[2026-06-24 15:23:18] [INFO] Backup successful
+[2026-06-24 15:23:18] [INFO] Starting validation
+[2026-06-24 15:23:32] [INFO] Validation completed
+[2026-06-24 15:35:07] [INFO] Backup started
+[2026-06-24 15:35:13] [INFO] using parent snapshot 9b879372
+[2026-06-24 15:35:13] [INFO] 
+[2026-06-24 15:35:13] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 15:35:13] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 15:35:13] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 15:35:13] [INFO] 
+[2026-06-24 15:35:13] [INFO] processed 7 files, 1.166 GiB in 0:05
+[2026-06-24 15:35:13] [INFO] snapshot d8ca330f saved
+[2026-06-24 15:35:13] [INFO] Backup successful
+[2026-06-24 15:35:13] [INFO] Starting validation
+[2026-06-24 15:35:30] [INFO] Validation completed
+[2026-06-24 15:35:35] [INFO] Uploading file: backup-2026-06-24.log -> restic-kedarwinartifacts/logs/backup-2026-06-24.log
+[2026-06-24 15:35:35] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-24.log. Error: Cannot bind parameter 'Uri'. Cannot convert value "https://.blob.core.windows.net/restic-kedarwinartifacts/logs/backup-2026-06-24.log" to type "System.Uri". Error: "Invalid URI: The hostname could not be parsed."
+[2026-06-24 15:35:35] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-24.log. Error: Cannot bind parameter 'Uri'. Cannot convert value "https://.blob.core.windows.net/restic-kedarwinartifacts/logs/backup-2026-06-24.log" to type "System.Uri". Error: "Invalid URI: The hostname could not be parsed."
+[2026-06-24 15:35:35] [INFO] Uploading file: BackupReport-2026-06-24.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt
+[2026-06-24 15:35:35] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: Cannot bind parameter 'Uri'. Cannot convert value "https://.blob.core.windows.net/restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt" to type "System.Uri". Error: "Invalid URI: The hostname could not be parsed."
+[2026-06-24 15:35:35] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: Cannot bind parameter 'Uri'. Cannot convert value "https://.blob.core.windows.net/restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt" to type "System.Uri". Error: "Invalid URI: The hostname could not be parsed."
+[2026-06-24 15:45:48] [INFO] Backup started
+[2026-06-24 15:45:58] [INFO] using parent snapshot d8ca330f
+[2026-06-24 15:45:58] [INFO] 
+[2026-06-24 15:45:58] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 15:45:58] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 15:45:58] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 15:45:58] [INFO] 
+[2026-06-24 15:45:58] [INFO] processed 7 files, 1.166 GiB in 0:10
+[2026-06-24 15:45:58] [INFO] snapshot 2552ab07 saved
+[2026-06-24 15:45:58] [INFO] Backup successful
+[2026-06-24 15:45:58] [INFO] Starting validation
+[2026-06-24 15:46:21] [INFO] Validation completed
+[2026-06-24 15:46:26] [INFO] Uploading file: backup-2026-06-24.log -> restic-kedarwinartifacts/logs/backup-2026-06-24.log
+[2026-06-24 15:46:27] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:1803b579-e01e-00f9-3cc2-03ecb8000000
+Time:2026-06-24T10:16:08.4103956Z
+[2026-06-24 15:46:27] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:1803b579-e01e-00f9-3cc2-03ecb8000000
+Time:2026-06-24T10:16:08.4103956Z
+[2026-06-24 15:46:27] [INFO] Uploading file: BackupReport-2026-06-24.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt
+[2026-06-24 15:46:27] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:1803b5bf-e01e-00f9-6fc2-03ecb8000000
+Time:2026-06-24T10:16:08.9423829Z
+[2026-06-24 15:46:27] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:1803b5bf-e01e-00f9-6fc2-03ecb8000000
+Time:2026-06-24T10:16:08.9423829Z
+[2026-06-24 15:54:52] [INFO] Backup started
+[2026-06-24 15:54:58] [INFO] using parent snapshot 2552ab07
+[2026-06-24 15:54:58] [INFO] 
+[2026-06-24 15:54:58] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 15:54:58] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 15:54:58] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 15:54:58] [INFO] 
+[2026-06-24 15:54:58] [INFO] processed 7 files, 1.166 GiB in 0:04
+[2026-06-24 15:54:58] [INFO] snapshot ad7411b8 saved
+[2026-06-24 15:54:58] [INFO] Backup successful
+[2026-06-24 15:54:58] [INFO] Starting validation
+[2026-06-24 15:55:12] [INFO] Validation completed
+[2026-06-24 15:57:47] [INFO] Backup started
+[2026-06-24 15:57:52] [INFO] using parent snapshot ad7411b8
+[2026-06-24 15:57:52] [INFO] 
+[2026-06-24 15:57:52] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 15:57:52] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 15:57:52] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 15:57:52] [INFO] 
+[2026-06-24 15:57:52] [INFO] processed 7 files, 1.166 GiB in 0:04
+[2026-06-24 15:57:52] [INFO] snapshot 45f3a13f saved
+[2026-06-24 15:57:52] [INFO] Backup successful
+[2026-06-24 15:57:52] [INFO] Starting validation
+[2026-06-24 15:58:05] [INFO] Validation completed
+[2026-06-24 15:58:10] [INFO] Uploading file: backup-2026-06-24.log -> restic-kedarwinartifacts/logs/backup-2026-06-24.log
+[2026-06-24 15:58:11] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:3cf66030-301e-0037-18c4-038af7000000
+Time:2026-06-24T10:27:52.5691972Z
+[2026-06-24 15:58:11] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:3cf66030-301e-0037-18c4-038af7000000
+Time:2026-06-24T10:27:52.5691972Z
+[2026-06-24 15:58:11] [INFO] Uploading file: BackupReport-2026-06-24.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt
+[2026-06-24 15:58:12] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:3cf6609a-301e-0037-66c4-038af7000000
+Time:2026-06-24T10:27:53.1057652Z
+[2026-06-24 15:58:12] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:3cf6609a-301e-0037-66c4-038af7000000
+Time:2026-06-24T10:27:53.1057652Z
+[2026-06-24 16:01:14] [INFO] Backup started
+[2026-06-24 16:01:19] [INFO] using parent snapshot 45f3a13f
+[2026-06-24 16:01:19] [INFO] 
+[2026-06-24 16:01:19] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 16:01:19] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 16:01:19] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 16:01:19] [INFO] 
+[2026-06-24 16:01:19] [INFO] processed 7 files, 1.166 GiB in 0:04
+[2026-06-24 16:01:19] [INFO] snapshot 0aa3af2d saved
+[2026-06-24 16:01:19] [INFO] Backup successful
+[2026-06-24 16:01:19] [INFO] Starting validation
+[2026-06-24 16:01:34] [INFO] Validation completed
+[2026-06-24 16:01:39] [INFO] Uploading file: backup-2026-06-24.log -> restic-kedarwinartifacts/logs/backup-2026-06-24.log
+[2026-06-24 16:01:40] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:a95e78ce-a01e-0098-01c4-03a867000000
+Time:2026-06-24T10:31:21.2431916Z
+[2026-06-24 16:01:40] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:a95e78ce-a01e-0098-01c4-03a867000000
+Time:2026-06-24T10:31:21.2431916Z
+[2026-06-24 16:01:40] [INFO] Uploading file: BackupReport-2026-06-24.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt
+[2026-06-24 16:01:40] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:a95e7982-a01e-0098-26c4-03a867000000
+Time:2026-06-24T10:31:21.7631622Z
+[2026-06-24 16:01:40] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:a95e7982-a01e-0098-26c4-03a867000000
+Time:2026-06-24T10:31:21.7631622Z
+[2026-06-24 23:43:14] [INFO] Backup started
+[2026-06-24 23:43:20] [INFO] using parent snapshot 0aa3af2d
+[2026-06-24 23:43:20] [INFO] 
+[2026-06-24 23:43:20] [INFO] Files:           0 new,     0 changed,     7 unmodified
+[2026-06-24 23:43:20] [INFO] Dirs:            0 new,     0 changed,     4 unmodified
+[2026-06-24 23:43:20] [INFO] Added to the repository: 0 B   (0 B   stored)
+[2026-06-24 23:43:20] [INFO] 
+[2026-06-24 23:43:20] [INFO] processed 7 files, 1.166 GiB in 0:05
+[2026-06-24 23:43:20] [INFO] snapshot eb6288a8 saved
+[2026-06-24 23:43:20] [INFO] Backup successful
+[2026-06-24 23:43:20] [INFO] Starting validation
+[2026-06-24 23:43:33] [INFO] Validation completed
+[2026-06-24 23:43:38] [INFO] Uploading file: backup-2026-06-24.log -> restic-kedarwinartifacts/logs/backup-2026-06-24.log
+[2026-06-24 23:43:39] [ERROR] Azure upload failed for C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:9fc11e48-b01e-000f-2505-04cbae000000
+Time:2026-06-24T18:13:20.4916200Z
+[2026-06-24 23:43:39] [ERROR] Artifact upload failed: C:\BackupAgent\logs\backup-2026-06-24.log. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:9fc11e48-b01e-000f-2505-04cbae000000
+Time:2026-06-24T18:13:20.4916200Z
+[2026-06-24 23:43:39] [INFO] Uploading file: BackupReport-2026-06-24.txt -> restic-kedarwinartifacts/reports/BackupReport-2026-06-24.txt
+[2026-06-24 23:43:39] [ERROR] Azure upload failed for C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:9fc11e9e-b01e-000f-6205-04cbae000000
+Time:2026-06-24T18:13:20.9884023Z
+[2026-06-24 23:43:39] [ERROR] Artifact upload failed: C:\BackupAgent\reports\BackupReport-2026-06-24.txt. Error: PublicAccessNotPermittedPublic access is not permitted on this storage account.
+RequestId:9fc11e9e-b01e-000f-6205-04cbae000000
+Time:2026-06-24T18:13:20.9884023Z

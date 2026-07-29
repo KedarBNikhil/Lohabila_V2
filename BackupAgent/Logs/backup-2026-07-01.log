@@ -1,0 +1,10 @@
+[2026-07-01 13:10:39] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-07-01 13:10:39] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-07-01 13:10:39] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-07-01 13:10:39] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-07-01 13:10:39] [INFO] Backup started
+[2026-07-01 13:22:37] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-07-01 13:22:37] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-07-01 13:22:37] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-07-01 13:22:37] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-07-01 13:22:37] [INFO] Backup started

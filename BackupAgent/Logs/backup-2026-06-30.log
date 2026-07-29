@@ -1,0 +1,96 @@
+[2026-06-30 10:04:37] [INFO] Backup started
+[2026-06-30 10:04:48] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 10:04:48] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 10:04:48] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":7.9476105,"backup_start":"2026-06-30T10:04:40.2979666+05:30","backup_end":"2026-06-30T10:04:48.2455771+05:30","snapshot_id":"4d7b2f48030f4aec19f5545895585be3aa3c2af161cc4938cfb520f595d20bfe"}
+[2026-06-30 10:04:48] [INFO] Backup successful
+[2026-06-30 10:04:48] [INFO] Expected Snapshot ID: 4d7b2f48030f4aec19f5545895585be3aa3c2af161cc4938cfb520f595d20bfe
+[2026-06-30 10:04:48] [INFO] Starting validation
+[2026-06-30 10:05:02] [INFO] Validation completed
+[2026-06-30 13:10:54] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 13:10:54] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 13:10:54] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 13:21:28] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 13:21:28] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 13:21:28] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 13:21:28] [INFO] Backup started
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 13:21:38] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":1,"dirs_unmodified":3,"data_blobs":0,"tree_blobs":1,"data_added":296,"data_added_packed":256,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":5.0996379,"backup_start":"2026-06-30T13:21:32.9587706+05:30","backup_end":"2026-06-30T13:21:38.0584085+05:30","snapshot_id":"d8be9229a15d38a3d1596d619aaf28e0f9f5fd25c51ee3f91e69743d55a0d5a0"}
+[2026-06-30 13:21:38] [INFO] Backup successful
+[2026-06-30 13:21:38] [INFO] Expected Snapshot ID: d8be9229a15d38a3d1596d619aaf28e0f9f5fd25c51ee3f91e69743d55a0d5a0
+[2026-06-30 13:21:38] [INFO] Starting validation
+[2026-06-30 13:22:02] [INFO] Validation completed
+[2026-06-30 13:29:47] [INFO] [PREFLIGHT] Internet Connectivity | Passed: False | No internet connectivity
+[2026-06-30 13:29:47] [INFO] [PREFLIGHT] Azure Connectivity | Passed: False | Cannot reach Azure
+[2026-06-30 13:29:47] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 22:39:19] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 22:39:19] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 22:39:19] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 22:39:19] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-06-30 22:39:19] [INFO] Backup started
+[2026-06-30 22:39:29] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:39:29] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:39:29] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:39:29] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.9064218,"backup_start":"2026-06-30T22:39:24.3680977+05:30","backup_end":"2026-06-30T22:39:29.2745195+05:30","snapshot_id":"8b33b1f8057ccfa39e2300bffa0c411805adb68f6d452aee7808cee24fc6d15b"}
+[2026-06-30 22:39:29] [INFO] Backup successful
+[2026-06-30 22:39:29] [INFO] Expected Snapshot ID: 8b33b1f8057ccfa39e2300bffa0c411805adb68f6d452aee7808cee24fc6d15b
+[2026-06-30 22:39:29] [INFO] Starting validation
+[2026-06-30 22:39:45] [INFO] Validation completed
+[2026-06-30 22:41:12] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 22:41:12] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 22:41:12] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 22:41:12] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-06-30 22:41:12] [INFO] Backup started
+[2026-06-30 22:41:17] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:41:17] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:41:17] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:41:17] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.3208957,"backup_start":"2026-06-30T22:41:12.2674371+05:30","backup_end":"2026-06-30T22:41:16.5883328+05:30","snapshot_id":"37f9f4bac9f0f006f4b7c7aa5902d663425b7d20ddad617a3661d1ed9026946d"}
+[2026-06-30 22:41:17] [INFO] Backup successful
+[2026-06-30 22:41:17] [INFO] Expected Snapshot ID: 37f9f4bac9f0f006f4b7c7aa5902d663425b7d20ddad617a3661d1ed9026946d
+[2026-06-30 22:41:17] [INFO] Starting validation
+[2026-06-30 22:41:31] [INFO] Validation completed
+[2026-06-30 22:45:06] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 22:45:06] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 22:45:06] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 22:45:06] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-06-30 22:45:06] [INFO] Backup started
+[2026-06-30 22:45:15] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:45:15] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:45:15] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:45:15] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":7.6994872,"backup_start":"2026-06-30T22:45:06.6047918+05:30","backup_end":"2026-06-30T22:45:14.304279+05:30","snapshot_id":"e1b8bf07f49e61428ae61366d9b8b31d040b006c86ffcaee47d042184b17fcaa"}
+[2026-06-30 22:45:15] [INFO] Backup successful
+[2026-06-30 22:45:15] [INFO] Expected Snapshot ID: e1b8bf07f49e61428ae61366d9b8b31d040b006c86ffcaee47d042184b17fcaa
+[2026-06-30 22:45:15] [INFO] Starting validation
+[2026-06-30 22:45:29] [INFO] Validation completed
+[2026-06-30 22:51:28] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 22:51:28] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 22:51:28] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 22:51:28] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-06-30 22:51:28] [INFO] Backup started
+[2026-06-30 22:51:34] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:51:34] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:51:34] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 22:51:34] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":5.7886429,"backup_start":"2026-06-30T22:51:28.2197518+05:30","backup_end":"2026-06-30T22:51:34.0083947+05:30","snapshot_id":"32d1415fefa49ace9046330a3729cb2eb63dba8d54309887b0daee1a74425b78"}
+[2026-06-30 22:51:34] [INFO] Backup successful
+[2026-06-30 22:51:34] [INFO] Expected Snapshot ID: 32d1415fefa49ace9046330a3729cb2eb63dba8d54309887b0daee1a74425b78
+[2026-06-30 22:51:34] [INFO] Starting validation
+[2026-06-30 22:51:49] [INFO] Validation completed
+[2026-06-30 23:00:10] [INFO] [PREFLIGHT] Internet Connectivity | Passed: True | Internet reachable
+[2026-06-30 23:00:10] [INFO] [PREFLIGHT] Azure Connectivity | Passed: True | Azure endpoint reachable
+[2026-06-30 23:00:10] [INFO] [PREFLIGHT] Disk Space | Passed: True | Sufficient space: 33.38 GB
+[2026-06-30 23:00:10] [INFO] PreFlight checks PASSED. Starting backup...
+[2026-06-30 23:00:10] [INFO] Backup started
+[2026-06-30 23:00:15] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":0,"total_files":7,"total_bytes":1252196802}
+[2026-06-30 23:00:16] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 23:00:16] [INFO] {"message_type":"status","seconds_elapsed":1,"percent_done":1,"total_files":7,"files_done":7,"total_bytes":1252196802,"bytes_done":1252196802}
+[2026-06-30 23:00:16] [INFO] {"message_type":"summary","files_new":0,"files_changed":0,"files_unmodified":7,"dirs_new":0,"dirs_changed":0,"dirs_unmodified":4,"data_blobs":0,"tree_blobs":0,"data_added":0,"data_added_packed":0,"total_files_processed":7,"total_bytes_processed":1252196802,"total_duration":4.7231382,"backup_start":"2026-06-30T23:00:10.6651362+05:30","backup_end":"2026-06-30T23:00:15.3882744+05:30","snapshot_id":"66c7884c1236f05d720272a9006c55f6f68bb2b42e92522dacc2d298456a49e9"}
+[2026-06-30 23:00:16] [INFO] Backup successful
+[2026-06-30 23:00:16] [INFO] Expected Snapshot ID: 66c7884c1236f05d720272a9006c55f6f68bb2b42e92522dacc2d298456a49e9
+[2026-06-30 23:00:16] [INFO] Starting validation
+[2026-06-30 23:00:40] [INFO] Validation completed

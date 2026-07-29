@@ -1,0 +1,204 @@
+[] Backup started
+[] no parent snapshot found, will read all files
+[] 
+[] Files:           8 new,     0 changed,     0 unmodified
+[] Dirs:            8 new,     0 changed,     0 unmodified
+[] Added to the repository: 15.574 KiB (6.665 KiB stored)
+[] 
+[] processed 8 files, 5.269 KiB in 0:04
+[] snapshot f4d389e2 saved
+[] Backup successful
+[] Backup started
+[] using parent snapshot f4d389e2
+[] 
+[] Files:           0 new,     2 changed,     6 unmodified
+[] Dirs:            0 new,     4 changed,     4 unmodified
+[] Added to the repository: 9.850 KiB (3.578 KiB stored)
+[] 
+[] processed 8 files, 5.615 KiB in 0:04
+[] snapshot ab42318d saved
+[] Backup successful
+[] Backup started
+[] using parent snapshot ab42318d
+[] 
+[] Files:           0 new,     1 changed,     7 unmodified
+[] Dirs:            0 new,     3 changed,     5 unmodified
+[] Added to the repository: 6.365 KiB (2.279 KiB stored)
+[] 
+[] processed 8 files, 5.940 KiB in 0:04
+[] snapshot d0c9930b saved
+[] Backup successful
+[] Backup started
+[] using parent snapshot d0c9930b
+[] 
+[] Files:           0 new,     1 changed,     7 unmodified
+[] Dirs:            0 new,     3 changed,     5 unmodified
+[] Added to the repository: 6.691 KiB (2.320 KiB stored)
+[] 
+[] processed 8 files, 6.266 KiB in 0:05
+[] snapshot 73b75122 saved
+[] Backup successful
+[] Backup started
+[] no parent snapshot found, will read all files
+[] 
+[] Files:           1 new,     0 changed,     0 unmodified
+[] Dirs:            2 new,     0 changed,     0 unmodified
+[] Added to the repository: 49.253 MiB (49.068 MiB stored)
+[] 
+[] processed 1 files, 49.249 MiB in 0:27
+[] snapshot 4601602b saved
+[] Backup successful
+[ 2026-06-22 23:00:00] Backup started
+[ 2026-06-22 23:04:17] using parent snapshot 4601602b
+[ 2026-06-22 23:04:17] 
+[ 2026-06-22 23:04:17] Files:           6 new,     0 changed,     1 unmodified
+[ 2026-06-22 23:04:17] Dirs:            2 new,     2 changed,     0 unmodified
+[ 2026-06-22 23:04:17] Added to the repository: 1.118 GiB (1.115 GiB stored)
+[ 2026-06-22 23:04:17] 
+[ 2026-06-22 23:04:17] processed 7 files, 1.166 GiB in 4:14
+[ 2026-06-22 23:04:17] snapshot 1df878fb saved
+[ 2026-06-22 23:04:17] Backup successful
+[ 2026-06-23 11:52:05] Backup started
+[ 2026-06-23 11:52:17] using parent snapshot 1df878fb
+[ 2026-06-23 11:52:17] 
+[ 2026-06-23 11:52:17] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 11:52:17] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 11:52:17] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 11:52:17] 
+[ 2026-06-23 11:52:17] processed 7 files, 1.166 GiB in 0:05
+[ 2026-06-23 11:52:17] snapshot 0d6fe10e saved
+[ 2026-06-23 11:52:17] Backup successful
+[ 2026-06-23 11:52:17] Starting validation
+[ 2026-06-23 11:52:17] Validation completed
+[ 2026-06-23 13:04:04] Backup started
+[ 2026-06-23 13:04:14] using parent snapshot 0d6fe10e
+[ 2026-06-23 13:04:14] 
+[ 2026-06-23 13:04:14] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 13:04:14] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 13:04:14] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 13:04:14] 
+[ 2026-06-23 13:04:15] processed 7 files, 1.166 GiB in 0:06
+[ 2026-06-23 13:04:15] snapshot ab3cf8d3 saved
+[ 2026-06-23 13:04:15] Backup successful
+[ 2026-06-23 13:04:15] Starting validation
+[ 2026-06-23 13:04:15] Validation completed
+[ 2026-06-23 13:10:59] Backup started
+[ 2026-06-23 13:11:05] using parent snapshot ab3cf8d3
+[ 2026-06-23 13:11:05] 
+[ 2026-06-23 13:11:05] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 13:11:05] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 13:11:05] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 13:11:05] 
+[ 2026-06-23 13:11:05] processed 7 files, 1.166 GiB in 0:04
+[ 2026-06-23 13:11:05] snapshot cb67065c saved
+[ 2026-06-23 13:11:05] Backup successful
+[ 2026-06-23 13:11:05] Starting validation
+[ 2026-06-23 13:11:05] Validation completed
+[ 2026-06-23 13:18:08] Backup started
+[ 2026-06-23 13:18:14] using parent snapshot cb67065c
+[ 2026-06-23 13:18:14] 
+[ 2026-06-23 13:18:14] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 13:18:14] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 13:18:14] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 13:18:14] 
+[ 2026-06-23 13:18:14] processed 7 files, 1.166 GiB in 0:05
+[ 2026-06-23 13:18:14] snapshot 6f9dbf03 saved
+[ 2026-06-23 13:18:14] Backup successful
+[ 2026-06-23 13:18:14] Starting validation
+[ 2026-06-23 13:18:15] Validation completed
+[ 2026-06-23 13:19:30] Backup started
+[ 2026-06-23 13:19:36] using parent snapshot 6f9dbf03
+[ 2026-06-23 13:19:36] 
+[ 2026-06-23 13:19:36] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 13:19:36] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 13:19:36] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 13:19:36] 
+[ 2026-06-23 13:19:36] processed 7 files, 1.166 GiB in 0:05
+[ 2026-06-23 13:19:36] snapshot f5e8538f saved
+[ 2026-06-23 13:19:36] Backup successful
+[ 2026-06-23 13:19:36] Starting validation
+[ 2026-06-23 13:19:36] Validation completed
+[ 2026-06-23 14:18:54] Backup started
+[ 2026-06-23 14:19:03] using parent snapshot f5e8538f
+[ 2026-06-23 14:19:03] 
+[ 2026-06-23 14:19:03] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 14:19:03] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 14:19:03] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 14:19:03] 
+[ 2026-06-23 14:19:03] processed 7 files, 1.166 GiB in 0:06
+[ 2026-06-23 14:19:03] snapshot b94b60ad saved
+[ 2026-06-23 14:19:03] Backup successful
+[ 2026-06-23 14:19:03] Starting validation
+[ 2026-06-23 14:19:03] Validation completed
+[ 2026-06-23 19:20:35] Backup started
+[ 2026-06-23 19:20:41] using parent snapshot b94b60ad
+[ 2026-06-23 19:20:41] 
+[ 2026-06-23 19:20:41] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 19:20:41] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 19:20:41] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 19:20:41] 
+[ 2026-06-23 19:20:41] processed 7 files, 1.166 GiB in 0:04
+[ 2026-06-23 19:20:41] snapshot 2efebe2f saved
+[ 2026-06-23 19:20:41] Backup successful
+[ 2026-06-23 19:20:41] Starting validation
+[ 2026-06-23 19:20:41] Validation completed
+[ 2026-06-23 19:41:22] Backup started
+[ 2026-06-23 19:41:28] using parent snapshot 2efebe2f
+[ 2026-06-23 19:41:28] 
+[ 2026-06-23 19:41:28] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 19:41:28] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 19:41:28] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 19:41:28] 
+[ 2026-06-23 19:41:28] processed 7 files, 1.166 GiB in 0:04
+[ 2026-06-23 19:41:28] snapshot 65a9c211 saved
+[ 2026-06-23 19:41:28] Backup successful
+[ 2026-06-23 19:41:28] Starting validation
+[ 2026-06-23 19:41:54] Validation completed
+[ 2026-06-23 19:55:59] Backup started
+[ 2026-06-23 19:56:08] using parent snapshot 65a9c211
+[ 2026-06-23 19:56:08] 
+[ 2026-06-23 19:56:08] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 19:56:08] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 19:56:08] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 19:56:08] 
+[ 2026-06-23 19:56:08] processed 7 files, 1.166 GiB in 0:05
+[ 2026-06-23 19:56:08] snapshot 01642e83 saved
+[ 2026-06-23 19:56:08] Backup successful
+[ 2026-06-23 19:56:08] Starting validation
+[ 2026-06-23 19:56:21] Validation completed
+[ 2026-06-23 19:58:45] Backup started
+[ 2026-06-23 19:58:51] using parent snapshot 01642e83
+[ 2026-06-23 19:58:51] 
+[ 2026-06-23 19:58:51] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 19:58:51] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 19:58:51] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 19:58:51] 
+[ 2026-06-23 19:58:51] processed 7 files, 1.166 GiB in 0:04
+[ 2026-06-23 19:58:51] snapshot df615b47 saved
+[ 2026-06-23 19:58:51] Backup successful
+[ 2026-06-23 19:58:51] Starting validation
+[ 2026-06-23 19:59:03] Validation completed
+[ 2026-06-23 20:56:18] Backup started
+[ 2026-06-23 20:56:25] using parent snapshot df615b47
+[ 2026-06-23 20:56:25] 
+[ 2026-06-23 20:56:25] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 20:56:25] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 20:56:25] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 20:56:25] 
+[ 2026-06-23 20:56:25] processed 7 files, 1.166 GiB in 0:04
+[ 2026-06-23 20:56:25] snapshot 39867cec saved
+[ 2026-06-23 20:56:25] Backup successful
+[ 2026-06-23 20:56:25] Starting validation
+[ 2026-06-23 20:56:38] Validation completed
+[ 2026-06-23 23:00:02] Backup started
+[ 2026-06-23 23:00:11] using parent snapshot 39867cec
+[ 2026-06-23 23:00:11] 
+[ 2026-06-23 23:00:11] Files:           0 new,     0 changed,     7 unmodified
+[ 2026-06-23 23:00:11] Dirs:            0 new,     0 changed,     4 unmodified
+[ 2026-06-23 23:00:11] Added to the repository: 0 B   (0 B   stored)
+[ 2026-06-23 23:00:11] 
+[ 2026-06-23 23:00:11] processed 7 files, 1.166 GiB in 0:05
+[ 2026-06-23 23:00:11] snapshot 5c22140d saved
+[ 2026-06-23 23:00:11] Backup successful
+[ 2026-06-23 23:00:11] Starting validation
+[ 2026-06-23 23:00:26] Validation completed

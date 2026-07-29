@@ -1,0 +1,30 @@
+﻿
+Backup Report
+=============
+
+Device: 
+Date: 06/23/2026 23:00:32
+
+Backup Status: SUCCESS
+Snapshot ID: 5c22140d
+Backup Time: 
+Validation Status: PASS
+
+Validation Results
+------------------
+Repository Integrity: PASS
+Snapshot Validation: PASS
+Validated Snapshot: 5c22140d
+
+Repository Stats:
+scanning... [0:00] 100.00%  1 / 1 snapshots, 11 files, 1.166 GiB Stats in restore-size mode:      Snapshots processed:  1         Total File Count:  11               Total Size:  1.166 GiB
+
+Source Path: 
+
+Recovery:
+Latest snapshot 5c22140d available for restore
+
+Validation Details:
+Repository integrity OK
+Snapshot validation OK
+
